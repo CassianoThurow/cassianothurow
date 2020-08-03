@@ -14,4 +14,4 @@ Desenvolvedor Front-End buscando evoluir e melhorar em todos os aspectos.
 
 ### 🚀 Projetos :
 
-- [Spotfy Clone](https://github.com/CassianoThurow/Spotify-Clone-Web): 📱 💰 Clone da interface do aplicativo de Musica Spotfy feito em bootstrap;
+- [Spotfy Clone](https://github.com/CassianoThurow/Spotify-Clone-Web): Clone da interface do aplicativo de Musica Spotfy feito em bootstrap;
