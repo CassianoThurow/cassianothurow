@@ -16,3 +16,7 @@ Desenvolvedor Front-End buscando evoluir e melhorar em todos os aspectos.
 - [Spotfy Clone](https://github.com/CassianoThurow/Spotify-Clone-Web): Clone da interface do aplicativo de Musica Spotfy feito em bootstrap;
 - [WildBeast](https://github.com/CassianoThurow/grid-layout): Website para treinar grid layout;
 - [CRUD](https://github.com/CassianoThurow/piIVB): CRUD simples em nodejs;
+- [Animais Fantásticos
+](https://github.com/CassianoThurow/origamid/tree/master/dom_effects/animais-fantasticos-elementos): Website para treinar Javascript;
+
+
