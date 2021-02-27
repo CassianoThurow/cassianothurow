@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassiano-thurow-8b78b6128/)](https://www.linkedin.com/in/cassiano-thurow-8b78b6128/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&labelColor=FFFFFF&logo=instagram&logoColor=000000&link=https://www.instagram.com/cassiothw/)](https://www.instagram.com/cassianothw/)
+[![Gmail Badge](https://img.shields.io/badge/-cassiano.thurow@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cassiano.thurow@gmail.com)](mailto:cassiano.thurow@gmail.com)
+
 
 Desenvolvedor Front-End buscando evoluir e melhorar em todos os aspectos.
 
@@ -18,5 +20,6 @@ Desenvolvedor Front-End buscando evoluir e melhorar em todos os aspectos.
 - [CRUD](https://github.com/CassianoThurow/piIVB): CRUD simples em nodejs;
 - [Animais Fantásticos
 ](https://github.com/CassianoThurow/origamid/tree/master/dom_effects/animais-fantasticos-elementos): Website para treinar Javascript;
-
+- [Move.it
+](https://github.com/CassianoThurow/nlw04-nextjs): Aplicação desenvolvida na 4 edição do NLW da rocketseat;
 
