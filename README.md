@@ -20,5 +20,5 @@ Desenvolvedor Front-End buscando evoluir e melhorar em todos os aspectos.
 - [CRUD](https://github.com/CassianoThurow/piIVB): CRUD simples em nodejs;
 - [Animais Fantásticos
 ](https://github.com/CassianoThurow/origamid/tree/master/dom_effects/animais-fantasticos-elementos): Website para treinar Javascript;
-- [Move.it](https://github.com/CassianoThurow/nlw04-nextjs)[Demo](https://nlw04-nextjs.vercel.app): Aplicação desenvolvida na 4 edição do NLW da rocketseat; 
+- [Move.it](https://github.com/CassianoThurow/nlw04-nextjs) - [Demo](https://nlw04-nextjs.vercel.app): Aplicação desenvolvida na 4 edição do NLW da rocketseat; 
 
