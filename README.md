@@ -1,7 +1,6 @@
 # Cassiano Thurow :shipit:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassiano-thurow-8b78b6128/)](https://www.linkedin.com/in/cassiano-thurow-8b78b6128/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&labelColor=FFFFFF&logo=instagram&logoColor=000000&link=https://www.instagram.com/cassiothw/)](https://www.instagram.com/cassianothw/)
 [![Gmail Badge](https://img.shields.io/badge/-cassiano.thurow@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cassiano.thurow@gmail.com)](mailto:cassiano.thurow@gmail.com)
 
 
