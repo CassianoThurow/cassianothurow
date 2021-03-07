@@ -14,11 +14,12 @@ Desenvolvedor Front-End buscando evoluir e melhorar em todos os aspectos.
 
 ### 🚀 Projetos :
 
-- [Proffy](https://github.com/CassianoThurow/nlw2) - [Demo](https://proffy-livid-gamma.vercel.app/): Aplicação desenvolvida na 2 edição do NLW da rocketseat; 
+
 - [Spotfy Clone](https://github.com/CassianoThurow/Spotify-Clone-Web): Clone da interface do aplicativo de Musica Spotfy feito em bootstrap;
 - [WildBeast](https://github.com/CassianoThurow/grid-layout): Website para treinar grid layout;
 - [CRUD](https://github.com/CassianoThurow/piIVB): CRUD simples em nodejs;
 - [Animais Fantásticos
-](https://github.com/CassianoThurow/origamid/tree/master/dom_effects/animais-fantasticos-elementos): Website para treinar Javascript;
+](https://github.com/CassianoThurow/origamid/tree/master/dom_effects/animais-fantasticos-elementos): Website para treinamento de Javascript;
+- [Proffy](https://github.com/CassianoThurow/nlw2) - [Demo](https://proffy-livid-gamma.vercel.app/): Aplicação desenvolvida na 2 edição do NLW da rocketseat; 
 - [Move.it](https://github.com/CassianoThurow/nlw04-nextjs) - [Demo](https://nlw04-nextjs.vercel.app): Aplicação desenvolvida na 4 edição do NLW da rocketseat; 
 
