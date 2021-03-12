@@ -10,6 +10,7 @@ Desenvolvedor Front-End buscando evoluir e melhorar em todos os aspectos.
 
 - JavaScript
 - ReactJS
+- React Native
 
 
 ### 🚀 Projetos :
